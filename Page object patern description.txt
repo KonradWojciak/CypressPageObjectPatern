@@ -1,0 +1,1 @@
+Cypress tasks converting  Basic cypress code to Page Object Patern code
